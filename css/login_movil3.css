@@ -1,0 +1,155 @@
+.general-background{
+    background:linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+}
+.login2-background{
+    max-width: 37.5rem;
+    margin: auto;
+    background: transparent;
+    position: relative;
+}
+
+ .circulo{
+    width: 5.8rem;
+    height: auto;
+    align-self: flex-end;
+    margin-top: -8rem;
+ }
+
+.login2-background h3{
+    margin-top: 1rem;
+   font-weight: 400;
+    font-size: 3rem;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.login2-background p{
+
+    font-weight: 10;
+     font-size: 1.4rem;
+     color: white;
+     
+ }
+ .login2-background div{
+    margin-top: 2rem;
+    margin-bottom: -5rem;
+    padding-top: 0.2rem;
+    text-align: center;
+    height: 2.1rem;
+    border-radius: 1rem;
+    font-size: 1.3rem;
+    color: var(--azul3);
+     
+     
+
+ }
+ .login2-background .div3{
+    padding: 1rem 0rem 0rem 1rem;
+    width: 13rem;
+    height: 16.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: white;
+    border: 0.1rem solid var(--azul4);
+    background-color: white;
+    position:absolute;
+    top: 17rem;
+    right: 3.8rem;
+     border: 0.1rem #5278C1
+ solid;
+    
+ }
+ .login2-background .div4{
+    padding: 1rem 0rem 0rem 1rem;
+    width: 13rem;
+    height: 16.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: white;
+    border: 0.1rem solid var(--azul4);
+    background-color: white;
+    position:absolute;
+    top: 17rem;
+    left: 3.8rem;
+     border: 0.1rem #5278C1
+ solid;
+ }
+ .login2-background .text{
+    font-size: -1rem;
+    color: var(--gris5);
+    font-family:  'Source Sans Pro', sans-serif;
+    opacity: 0.61;
+}
+.login2-background h2{
+    font-size: 4rem;
+    font-weight: 400;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+}
+
+.login2-background div{
+    width: 12rem;
+    background-color: 	white;
+}
+
+.login2-lista_funciones{
+    margin-top: 1rem;
+    background-color: white;
+    border-radius: 4rem 4rem 0rem 0rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.login2-lista_funciones .div1{
+    
+    margin-top: 9rem;
+    padding: 1rem 0rem 0rem 1rem;
+    width: 14rem;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    
+    background-color: #e6e6fa;
+}
+.login2-lista_funciones .div2{
+    margin-top: 8rem;
+    padding: 1rem 0rem 0rem 1rem;
+    width: 14rem;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: 	#e6e6fa;
+    font-family:  'Source Sans Pro', sans-serif;
+}
+
+.login2-lista_funciones p{
+    font-size: var(--parrafo);
+    font-weight: 400;
+    color: black;
+    margin-top: 1.5rem;  
+    font-family:  'Source Sans Pro', sans-serif;
+    opacity: 0.61;
+}
+
+.fecha{
+    
+   margin-top: 1rem;
+    padding: -1rem 0rem 0rem 1rem;
+    width: 8rem;
+    height: 2rem;
+    background-color: 	white;
+    font-family:  'Source Sans Pro', sans-serif; 
+   font-size: 14px;
+    border-radius: 10px;
+   text-align: center;
+       color: #6184C7;
+    
+           
+}
+
