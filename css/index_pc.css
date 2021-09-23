@@ -1,0 +1,21 @@
+.background  {
+
+    width: 100vw;
+    height: 100vh;
+   display: flex;
+   flex-direction:row ;
+justify-content: space-around;
+    padding-top: 3rem;
+}
+
+.section-school_imagen  {
+    margin-top: 1rem;
+    margin-left: 1rem;
+   width: 30rem;;
+}
+
+.logo  {
+width: 15rem;
+    margin-top: 1rem;
+    margin-left: 9rem;
+}

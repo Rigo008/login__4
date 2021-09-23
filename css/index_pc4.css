@@ -1,0 +1,46 @@
+.profile-background{
+    width: 100vw;
+ height: 100vh;
+
+    display: flex;
+ flex-direction: row;
+    justify-content: space-around ;
+}
+
+.profile{
+border-radius: 4rem 4rem 4rem 4rem;
+    max-width: 80rem;
+margin-left: 22rem;
+    margin-top: 1.6rem;
+}
+
+.banner-profile .estrellas{
+margin: 21.5rem 0rem 0rem 11em;
+}
+
+.formulario_label{
+margin-left: 2rem;
+    
+}
+
+.formulario_label_2{
+margin-left: 2rem;
+}
+
+
+.banner-profile h2{
+margin-top: -3rem;
+}
+
+.banner-profile .arrow{
+margin-top: -3rem;
+}
+
+.banner-profile a{
+margin-top: -3.5rem;
+}
+
+.banner-profile .checked{
+margin-top: -2.5rem;
+}
+
